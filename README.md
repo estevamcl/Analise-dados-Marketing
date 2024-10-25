@@ -1,4 +1,4 @@
 # Analise-dados-Marketing
 Análise da conversão de potenciais clientes do setor de marketing em clientes efetivos
 
-[Análise da Conversão de Leads em Clientes do Setor de Marketing (2).pdf](https://github.com/user-attachments/files/17525057/Analise.da.Conversao.de.Leads.em.Clientes.do.Setor.de.Marketing.2.pdf)
+https://www.canva.com/design/DAGUmNY6g7E/HcBBisaIyPzc47DQMuLkKw/view?utm_content=DAGUmNY6g7E&utm_campaign=designshare&utm_medium=link&utm_source=editor
